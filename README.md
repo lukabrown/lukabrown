@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukabrown
-- 👀 I’m interested in tennis, pc building, gaming (overwatch!), and bowling!
+- 👀 I’m interested in tennis, pc building, gaming (Overwatch!), and bowling!
 - 🌱 I’m currently learning SQL, Machine Learning
 - 💞️ I’m looking to collaborate on any of my games! Or yours!
 - 📫 How to reach me luka.professional@gmail.com

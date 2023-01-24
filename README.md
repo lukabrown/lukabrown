@@ -2,7 +2,7 @@
 - 👀 I’m interested in tennis, pc building, gaming (Overwatch!), and bowling!
 - 🌱 I’m currently learning SQL, Machine Learning
 - 💞️ I’m looking to collaborate on any of my games! Or yours!
-- 📫 How to reach me luka.professional@gmail.com
+- 📫 How to reach me lukab.dev@proton.me
 
 <!---
 lukabrown/lukabrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

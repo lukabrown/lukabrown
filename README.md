@@ -4,7 +4,3 @@
 - 🌱 I’m currently learning SQL database theory, machine learning algorithms, and more ways to optimize my C++.
 - 📫 How to reach me: Send an email to lukab.dev@proton.me
 - 🌐 Check out my website! www.luka-brown.com
-<!---
-lukabrown/lukabrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

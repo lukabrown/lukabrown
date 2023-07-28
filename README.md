@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luka Brown! I am a Software Developer currently based out of Texas.
-- 👨‍🎓 I am graduating from Texas State University with a Bachelor of Science in Computer Science this May.
-- 👀 My main hobby is gaming, and I spend a lot of my free time playing Overwatch. However, I also love tennis and bowling as well.
-- 🌱 I’m currently learning SQL database theory, machine learning algorithms, and more ways to optimize my C++.
+- 👋 Hi, I’m Luka Brown! I am a software engineer currently based out of Austin, Texas.
+- 👨‍🎓 Texas State May 2023. Bachelor's in Computer Science and minor in Applied Mathematics.
+- 👀 My main hobby is gaming, and I spend a lot of my free time playing with my friends. I also love tennis and bowling as well.
+- 🌱 I’m currently learning C#, .NET framework, and more ways to optimize my C++ projects.
 - 📫 How to reach me: Send an email to lukab.dev@proton.me
 - 🌐 Check out my website! www.luka-brown.com

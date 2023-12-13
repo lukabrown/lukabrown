@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luka Brown! I am a software engineer currently based out of Austin, Texas.
+- 👋 Hi, I’m Luka Brown! I am a full stack software engineer currently based out of Austin, Texas.
 - 👨‍🎓 Texas State May 2023. Bachelor's in Computer Science and minor in Applied Mathematics.
-- 👀 My main hobby is gaming, and I spend a lot of my free time playing with my friends. I also love tennis and bowling as well.
-- 🌱 I’m currently learning C#, .NET framework, and more ways to optimize my C++ projects.
+- 👀 My main hobby is gaming, and I spend a lot of my free time playing with my friends. I love tennis and bowling as well!
+- 🌱 I’m currently learning AWS, Python as a microservice, and helping other devs through DevOps!
 - 📫 How to reach me: Send an email to lukab.dev@proton.me
 - 🌐 Check out my website! www.luka-brown.com

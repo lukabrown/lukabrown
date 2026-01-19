@@ -2,5 +2,5 @@
 - 👨‍🎓 Texas State May 2023. Bachelor's in Computer Science and minor in Applied Mathematics.
 - 👀 My main hobby is gaming, and I spend a lot of my free time playing with my friends. I love tennis and bowling as well!
 - 🌱 I’m currently learning AWS, Python as a microservice, and frontend development.
-- 📫 How to reach me: Send an email to lukab.dev@proton.me
+- 📫 How to reach me: Send an email to contact@luka-brown.com
 - 🌐 Check out my website! www.luka-brown.com
